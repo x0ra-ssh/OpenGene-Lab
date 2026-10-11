@@ -1,6 +1,6 @@
 # OpenGene Lab: Scientific Genetics Workbench & TUI
 
-**OpenGene Lab** is a high-performance, modular Python CLI application and interactive terminal workbench designed for bioinformatics exploration, genetic drift simulation, and source-attributed genomic data management. Built for researchers, educators, and students, OpenGene Lab combines rigorous population genetics modeling with a professional, `btop`-inspired terminal user interface (`TUI`).
+**OpenGene Lab** is a high-performance, modular Python CLI application and interactive terminal workbench designed for bioinformatics exploration, genetic drift simulation, and source-attributed genomic data management. Built for researchers, educators, and students, OpenGene Lab combines rigorous population genetics modeling with a professional terminal user interface.
 
 ---
 
