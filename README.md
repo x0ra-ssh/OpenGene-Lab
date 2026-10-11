@@ -113,4 +113,4 @@ python main.py query conditions --search "Marfan"
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License 2.0. See `LICENSE` for more information.
