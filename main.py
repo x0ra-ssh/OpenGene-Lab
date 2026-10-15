@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""OpenGene Lab: Scientific TUI, Dataset Builder, & Genetics Simulation Workbench.
-
-Inspired by btop-style monitoring aesthetics, optimized for widescreen terminals (1920x1200).
-Dependency: numpy (install with: python -m pip install numpy)
-Example TUI: python main.py tui
-Example Build Data: python main.py build-data
-"""
 from __future__ import annotations
 
 import argparse
